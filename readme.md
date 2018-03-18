@@ -1,6 +1,6 @@
 # Cargame for Gamebuino-META
 
-![cargame](TITLESCREEN.BMP)
+![cargame](bin/TITLESCREEN.BMP)
 
 Simple game showing how to create a minimal game for Gamebuino-META. Features basic controls for the car and road/trees animation.
 
